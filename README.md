@@ -1,4 +1,3 @@
-# word-list-plugin
 # Word List Plugin — Плагин автоформата перечислений
 
 VBA-плагин для Microsoft Word, который автоматически обнаруживает
